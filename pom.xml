@@ -12,7 +12,7 @@
 	<description>
 		This project demonstrates event streaming using the Spring Webflux.
 		Spring Webflux implements reactive programming paradigm. 
-		This project uses a simple use of item sale analysis.
+		This project uses a simple use case of item sale analysis.
 	</description>
 	
 	<parent>
