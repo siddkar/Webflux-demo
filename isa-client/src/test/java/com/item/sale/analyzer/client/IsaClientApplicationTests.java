@@ -1,4 +1,4 @@
-package com.item.sale.analyzer.itemsaleanalyzer;
+package com.item.sale.analyzer.client;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
